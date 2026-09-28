@@ -1,6 +1,6 @@
 {
-  "version_code": 7,
-  "version_nombre": "Naturcyl",
-  "url_descarga": "https://github.com/Letifico/La-Granja-app/releases/latest/download/app-release.apk",
-  "notas": "¡Nueva sección Naturcyl (25-27 sept), con programa completo y planos del recinto!"
+    "version_code":  8,
+    "version_nombre":  "v8 · Agenda",
+    "url_descarga":  "https://github.com/Letifico/La-Granja-app/releases/latest/download/app-release.apk",
+    "notas":  "Nuevo inicio con Próximamente y calendario del municipio por meses, Mi plan con recordatorios, Rutas de otoño, Guía del Real Sitio con el autobús M8 y reserva de entradas desde la ficha de cada evento."
 }
