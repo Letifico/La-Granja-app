@@ -127,31 +127,40 @@
       "fecha": "2026-10-02",
       "hora": "17:00",
       "titulo": "IV Jornadas de la Carrera de Indias · Inauguración de las Jornadas",
-      "descripcion": "De 17:00 a 17:20.\n\nIntervienen:\n· Samuel Alonso Llorente, alcalde del Real Sitio de San Ildefonso\n· Sonia Juárez Boal, secretaria general de la Asociación MUCAIN\n· Andrés Ortega García, presidente de la Fundación Centro Nacional del Vidrio\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 17:00 a 17:20.\n\nIntervienen:\n· Samuel Alonso Llorente, alcalde del Real Sitio de San Ildefonso\n· Sonia Juárez Boal, secretaria general de la Asociación MUCAIN\n· Andrés Ortega García, presidente de la Fundación Centro Nacional del Vidrio\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
       "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
-      "destacado": true
+      "destacado": true,
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-02-carrera-indias-02",
       "fecha": "2026-10-02",
       "hora": "17:20",
       "titulo": "IV Jornadas de la Carrera de Indias · La contribución desde La Granja a la independencia de EEUU: la patente de corso de 1779",
-      "descripcion": "De 17:20 a 18:20.\n\nPonente: Ricardo A. Fernández González, ingeniero, escritor, divulgador histórico y fundador de MUCAIN.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 17:20 a 18:20.\n\nPonente: Ricardo A. Fernández González, ingeniero, escritor, divulgador histórico y fundador de MUCAIN.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-02-carrera-indias-03",
       "fecha": "2026-10-02",
       "hora": "18:45",
       "titulo": "IV Jornadas de la Carrera de Indias · El esplendor de la América española",
-      "descripcion": "De 18:45 a 19:30.\n\nDe cómo España llevó al Nuevo Mundo lo mejor de sí misma.\n\nPonente: José Manuel Azcona Pastor, doctor en Historia y catedrático de Historia Contemporánea en la Universidad Rey Juan Carlos.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 18:45 a 19:30.\n\nDe cómo España llevó al Nuevo Mundo lo mejor de sí misma.\n\nPonente: José Manuel Azcona Pastor, doctor en Historia y catedrático de Historia Contemporánea en la Universidad Rey Juan Carlos.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-02-cigce-matar-al-presidente",
@@ -169,100 +178,130 @@
       "fecha": "2026-10-02",
       "hora": "19:30",
       "titulo": "IV Jornadas de la Carrera de Indias · Nutka, el septentrión español (1774-1793)",
-      "descripcion": "De 19:30 a 20:15.\n\nLa costa noroeste de Norteamérica.\n\nPonente: Eduardo Bernal González Villegas, capitán de navío retirado, académico y divulgador.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 19:30 a 20:15.\n\nLa costa noroeste de Norteamérica.\n\nPonente: Eduardo Bernal González Villegas, capitán de navío retirado, académico y divulgador.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-05",
       "fecha": "2026-10-03",
       "hora": "10:00",
       "titulo": "IV Jornadas de la Carrera de Indias · Recepción de participantes",
-      "descripcion": "De 10:00 a 10:30.\n\nRecepción y presentación de la jornada del sábado.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 10:00 a 10:30.\n\nRecepción y presentación de la jornada del sábado.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-06",
       "fecha": "2026-10-03",
       "hora": "10:30",
       "titulo": "IV Jornadas de la Carrera de Indias · La influencia de la Escuela de Salamanca en la Constitución de EEUU",
-      "descripcion": "De 10:30 a 11:10.\n\nPonentes:\n· Beatriz Paredes, presidenta de la Fundación Unidos por la Historia\n· Elizabeth Wise, miembro de la National Society Daughters of the American Revolution\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 10:30 a 11:10.\n\nPonentes:\n· Beatriz Paredes, presidenta de la Fundación Unidos por la Historia\n· Elizabeth Wise, miembro de la National Society Daughters of the American Revolution\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-07",
       "fecha": "2026-10-03",
       "hora": "11:10",
       "titulo": "IV Jornadas de la Carrera de Indias · El apoyo de los empresarios españoles a la independencia de EEUU",
-      "descripcion": "De 11:10 a 11:50.\n\nPonente: Pilar Almagro, CEO de VertiSub y divulgadora.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 11:10 a 11:50.\n\nPonente: Pilar Almagro, CEO de VertiSub y divulgadora.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-08",
       "fecha": "2026-10-03",
       "hora": "12:20",
       "titulo": "IV Jornadas de la Carrera de Indias · Mesa redonda: el Pacífico Norte y la independencia de EEUU",
-      "descripcion": "De 12:20 a 13:00.\n\nPolíticas, fronteras y legado hispano.\n\nParticipan:\n· Ignacio Ruiz Rodríguez, catedrático de Historia del Derecho y de las Instituciones (Universidad Rey Juan Carlos)\n· Gonzalo Rodríguez Carmona, presidente y fundador de Territorio Emprendimiento y Talento Hispano\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 12:20 a 13:00.\n\nPolíticas, fronteras y legado hispano.\n\nParticipan:\n· Ignacio Ruiz Rodríguez, catedrático de Historia del Derecho y de las Instituciones (Universidad Rey Juan Carlos)\n· Gonzalo Rodríguez Carmona, presidente y fundador de Territorio Emprendimiento y Talento Hispano\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-09",
       "fecha": "2026-10-03",
       "hora": "13:00",
       "titulo": "IV Jornadas de la Carrera de Indias · El Fuerte Mosé",
-      "descripcion": "De 13:00 a 13:40.\n\nLa primera comunidad de negros libres de Norteamérica, bajo bandera española.\n\nPonente: César Pérez Guevara, historiador, abogado y presidente del Centro de Estudios Roscio.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 13:00 a 13:40.\n\nLa primera comunidad de negros libres de Norteamérica, bajo bandera española.\n\nPonente: César Pérez Guevara, historiador, abogado y presidente del Centro de Estudios Roscio.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-10",
       "fecha": "2026-10-03",
       "hora": "16:00",
       "titulo": "IV Jornadas de la Carrera de Indias · El café de los hispanistas",
-      "descripcion": "De 16:00 a 17:00.\n\nEncuentro informal de la tarde del sábado.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 16:00 a 17:00.\n\nEncuentro informal de la tarde del sábado.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-11",
       "fecha": "2026-10-03",
       "hora": "17:00",
       "titulo": "IV Jornadas de la Carrera de Indias · Mesa redonda: el real de a 8, la moneda de la independencia",
-      "descripcion": "De 17:00 a 18:00.\n\nParticipan:\n· Rafael Feria, director del Museo Casa de la Moneda de Madrid\n· Glenn Murray, numismático y escritor\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 17:00 a 18:00.\n\nParticipan:\n· Rafael Feria, director del Museo Casa de la Moneda de Madrid\n· Glenn Murray, numismático y escritor\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-12",
       "fecha": "2026-10-03",
       "hora": "18:00",
       "titulo": "IV Jornadas de la Carrera de Indias · Los Tratados de San Ildefonso y el Nuevo Mundo",
-      "descripcion": "De 18:00 a 19:00.\n\nPonente: Eduardo Juárez Valero, historiador, paleógrafo y profesor de la Universidad Carlos III.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "De 18:00 a 19:00.\n\nPonente: Eduardo Juárez Valero, historiador, paleógrafo y profesor de la Universidad Carlos III.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-03-carrera-indias-13",
       "fecha": "2026-10-03",
       "hora": "19:00",
       "titulo": "IV Jornadas de la Carrera de Indias · Clausura de las Jornadas",
-      "descripcion": "Con Sara Bieger, de Amigos de MUCAIN.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas: reserva en mucain.com. Organiza MUCAIN (Museo Carrera de Indias).",
+      "descripcion": "Con Sara Bieger, de Amigos de MUCAIN.\n\nIV Jornadas de la Carrera de Indias: «La Granja, el efecto mariposa y la contribución hispana a la independencia de EEUU en su 250 aniversario».\n\nPlazas limitadas (100 por día): reserva con el botón «Reservar plaza». Organiza MUCAIN (Museo Carrera de Indias).",
       "categoria": "cultura",
       "lugar_nota": "Real Fábrica de Cristales",
-      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg"
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/carrera-indias-2026.jpg",
+      "entrada": true,
+      "entrada_url": "https://www.eventbrite.es/e/1998909516172",
+      "entrada_texto": "Reservar plaza"
     },
     {
       "id": "ag-2026-10-10-feria-cerveza",
