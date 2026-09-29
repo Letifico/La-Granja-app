@@ -1,7 +1,7 @@
 {
   "meta": {
     "nombre": "Agenda del Real Sitio",
-    "actualizado": "2026-09-28"
+    "actualizado": "2026-09-29"
   },
   "categorias": [
     {
@@ -61,7 +61,15 @@
     }
   ],
   "lugares": [],
-  "anuncios": [],
+  "anuncios": [
+    {
+      "id": "agua-atalaya-2026",
+      "titulo": "Agua: apoyo de la Mancomunidad de La Atalaya",
+      "texto": "Por la falta de lluvias y el bajo nivel del Estanque de El Mar, el municipio recibe temporalmente agua de la Mancomunidad de La Atalaya.\n\nMientras se ajusta la red pueden notarse cambios de presión o pequeñas incidencias en el suministro. El agua sigue sometida a todos los controles sanitarios y es apta para el consumo.\n\nLa medida durará mientras continúe la emergencia por escasez de agua. El Ayuntamiento pide un uso responsable y evitar consumos innecesarios.\n\nBando municipal del 28 de septiembre de 2026.",
+      "tipo": "aviso",
+      "hasta": "2026-10-01"
+    }
+  ],
   "actos": [
     {
       "id": "ag-expo-ceneam-cuando-el-paisaje-duele",
@@ -113,6 +121,16 @@
       "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/penalara-infantil-2026.jpg"
     },
     {
+      "id": "ag-2026-09-29-escalada-familia",
+      "fecha": "2026-09-29",
+      "hora": "18:00",
+      "titulo": "Escalada en familia · Inicio de curso y puertas abiertas",
+      "descripcion": "De 18:00 a 21:30.\n\nArranca el curso de escalada en familia en el rocódromo municipal, con jornada de puertas abiertas para conocerlo.\n\nRequisitos:\n· Ser socio y estar federado en la FEDME para usar el rocódromo\n· Material homologado: arnés, pies de gato y casco\n· Edad mínima: 5 años\n· Los menores, siempre con un adulto\n\nContacto: 609 583 599 · 657 705 087 · 636 831 339",
+      "categoria": "deporte",
+      "lugar_nota": "Rocódromo municipal (Polideportivo)",
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/escalada-familia-2026.jpg"
+    },
+    {
       "id": "ag-2026-10-01-flamencura-calendario",
       "fecha": "2026-10-01",
       "hora": "19:30",
@@ -121,6 +139,26 @@
       "categoria": "musica",
       "lugar_nota": "Sala S. XXI del Ayuntamiento",
       "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/flamencura-calendario-2027.jpg"
+    },
+    {
+      "id": "ag-2026-expo-gaza-mirada-no-silenciada",
+      "fecha": "2026-10-02",
+      "fecha_fin": "2026-10-30",
+      "titulo": "«Gaza, la mirada no silenciada»",
+      "categoria": "exposicion",
+      "lugar_nota": "Casa de la Cultura (Pl. Matadero, 3)",
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/expo-gaza-2026.jpg",
+      "descripcion": "Exposición fotográfica sobre la vida de la población de Gaza, con el lema «Un llamamiento a no mirar hacia otro lado».\n\nInauguración: viernes 2 de octubre a las 11:00.\n\nHorario:\n· Lunes a viernes: 9:00–14:00 y 17:00–20:00\n· Sábados: 11:00–14:00\n\nExposición de UNRWA España (ayudagaza.com). Organizan y promueven el Ayuntamiento del Real Sitio y otras entidades colaboradoras."
+    },
+    {
+      "id": "ag-2026-10-02-expo-gaza-inauguracion",
+      "fecha": "2026-10-02",
+      "hora": "11:00",
+      "titulo": "Inauguración de la exposición «Gaza, la mirada no silenciada»",
+      "categoria": "exposicion",
+      "lugar_nota": "Casa de la Cultura (Pl. Matadero, 3)",
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/expo-gaza-2026.jpg",
+      "descripcion": "Apertura de la exposición, que se podrá visitar del 2 al 30 de octubre.\n\nHorario:\n· Lunes a viernes: 9:00–14:00 y 17:00–20:00\n· Sábados: 11:00–14:00\n\nExposición de UNRWA España (ayudagaza.com). Organizan y promueven el Ayuntamiento del Real Sitio y otras entidades colaboradoras."
     },
     {
       "id": "ag-2026-10-02-carrera-indias-01",
@@ -302,6 +340,16 @@
       "entrada": true,
       "entrada_url": "https://www.eventbrite.es/e/1998909516172",
       "entrada_texto": "Reservar plaza"
+    },
+    {
+      "id": "ag-2026-10-06-escalada-familia",
+      "fecha": "2026-10-06",
+      "hora": "18:00",
+      "titulo": "Escalada en familia · Puertas abiertas",
+      "descripcion": "De 18:00 a 21:30.\n\nSegunda jornada de puertas abiertas del curso de escalada en familia en el rocódromo municipal.\n\nRequisitos:\n· Ser socio y estar federado en la FEDME para usar el rocódromo\n· Material homologado: arnés, pies de gato y casco\n· Edad mínima: 5 años\n· Los menores, siempre con un adulto\n\nContacto: 609 583 599 · 657 705 087 · 636 831 339",
+      "categoria": "deporte",
+      "lugar_nota": "Rocódromo municipal (Polideportivo)",
+      "cartel": "https://raw.githubusercontent.com/Letifico/La-Granja-app/main/carteles/escalada-familia-2026.jpg"
     },
     {
       "id": "ag-2026-10-10-feria-cerveza",
